@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.AssemblyInfo.cs
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\bin\Debug\net7.0\TS2.exe
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\bin\Debug\net7.0\TS2.deps.json
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\bin\Debug\net7.0\TS2.runtimeconfig.json
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\bin\Debug\net7.0\TS2.dll
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\bin\Debug\net7.0\TS2.pdb
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.dll
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\refint\TS2.dll
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.pdb
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\TS2.genruntimeconfig.cache
+C:\Users\User\Desktop\С# ДЗ1\task2\TS2\obj\Debug\net7.0\ref\TS2.dll
